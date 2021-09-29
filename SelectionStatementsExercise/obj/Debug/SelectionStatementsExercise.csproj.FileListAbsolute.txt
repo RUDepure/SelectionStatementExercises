@@ -1,0 +1,6 @@
+C:\Users\alexr\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\SelectionStatementsExercise.exe
+C:\Users\alexr\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\SelectionStatementsExercise.pdb
+C:\Users\alexr\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\alexr\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.exe
+C:\Users\alexr\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\SelectionStatementsExercise.pdb
